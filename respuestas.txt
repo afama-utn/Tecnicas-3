@@ -1,0 +1,7 @@
+Respuestas del TP1: Procesos
+
+1)El PID es el identificador que posee cada proceso. El PID del padre respecto al hijo
+es menor debido a que se asigna a medida que se van generando.
+
+
+

@@ -1,0 +1,7 @@
+agustin@agustin-VirtualBox:~/Facultad/Tecnicas_3/TP_1$ ./prc03
+Primer Fork: Mi PID es 13892 y el PID de mi padre es 13619. fork() devolvio 13893
+Segundo Fork: Mi PID es 13892 y el PID de mi padre es 13619. fork() devolvio 13894
+Primer Fork: Mi PID es 13893 y el PID de mi padre es 13892. fork() devolvio 0
+Segundo Fork: Mi PID es 13893 y el PID de mi padre es 13892. fork() devolvio 13895
+Segundo Fork: Mi PID es 13894 y el PID de mi padre es 13892. fork() devolvio 0
+Segundo Fork: Mi PID es 13895 y el PID de mi padre es 13893. fork() devolvio 0

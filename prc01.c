@@ -17,3 +17,8 @@ int main(){
 }
 
 //El padre en este caso es el BASH.
+
+/*
+*	El PID es el identificador de procesos de cada proceso valga la redundancia
+*	
+*/
