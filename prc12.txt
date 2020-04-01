@@ -1,0 +1,7 @@
+Solo se muestra el contenido de stdout. 
+
+El contenido de err-prc12.txt es el mensaje de error que se arrojaba en 
+consola.
+
+La funcion del operador "2>" es dirigir unicamente el flujo del mensaje 
+de error, pues el numero 2 asocia el descriptor asociado a stderr

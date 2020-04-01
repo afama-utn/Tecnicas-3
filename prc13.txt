@@ -1,0 +1,11 @@
+Se ha realizado 3 operaciones
+1) Ejecutar el comando ls -al
+2) La devolucion de dicho comando enviarlo al buffer stdout
+3) Ver el buffer
+
+En consola no se observa nada, puesto se estipula que el mensaje de 
+salida se almacene en el archivo "stdout".
+Pero si aplicamos el comando ls -al, se aprecia el mismo contenido
+En otras palabras, la opcion ">" bifurca el contenido
+
+

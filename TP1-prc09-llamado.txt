@@ -1,0 +1,3 @@
+agustin@agustin-VirtualBox:~/Facultad/Tecnicas_3/TP_1$ ./prc09
+Mi PID es 4355 y el PID de mi padre es 2267. fork() devolvio 4356
+Y yo soy el hijo, pues mi PID es: 4356
